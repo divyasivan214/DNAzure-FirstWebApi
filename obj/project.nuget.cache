@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R+eiiyfJdBUtsL/pt3qkMZ778I4t2RPoYGF9j95lotLLN8cYfluVSLjP1GV9wirVV9wtMnw/PTDU3cgicnyFPQ==",
+  "success": true,
+  "projectFilePath": "D:\\Handsons-CTS\\Cloud_Handson\\Day87A\\Day87A.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elcot\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
